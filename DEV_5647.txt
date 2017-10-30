@@ -1,0 +1,2 @@
+5647_i1	start desktop
+5647_i2	stop desktop

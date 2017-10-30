@@ -1,0 +1,3 @@
+1234	wifi	router	Hall	1
+4321	laptop	computer	bedroom	1
+5647	desktop	computer	bedroom	0

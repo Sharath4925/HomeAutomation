@@ -1,0 +1,2 @@
+1234_i1	start wifi
+1234_i2	stop wifi
